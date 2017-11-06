@@ -22,7 +22,7 @@ Then we do not have a guide for it, and you may do whatever makes you work happi
 
 ## Anatomy
 
-  - Each CSS rule is made up for four parts: the **selecor**, the **declaration block**, a list of **properties**, and their **values**.
+  - Each CSS rule is made up for four parts: the **selector**, the **declaration block**, a list of **properties**, and their **values**.
 
     ```css
     h1 /* selector */
